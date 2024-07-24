@@ -2078,7 +2078,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "17294750-17cd-479a-9802-546e9ac4630a")
-		(property "Reference" "D5"
+		(property "Reference" "D4"
 			(at 91.44 83.8199 90)
 			(effects
 				(font
@@ -2150,7 +2150,7 @@
 		(instances
 			(project "macropad"
 				(path "/f689f57c-e1bb-4870-8df3-313e66f77238"
-					(reference "D5")
+					(reference "D4")
 					(unit 1)
 				)
 			)
@@ -2234,7 +2234,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "34c8729e-2f77-4c36-8bdd-8b3983619b7d")
-		(property "Reference" "S9"
+		(property "Reference" "S7"
 			(at 86.36 96.52 0)
 			(effects
 				(font
@@ -2286,7 +2286,7 @@
 		(instances
 			(project "macropad"
 				(path "/f689f57c-e1bb-4870-8df3-313e66f77238"
-					(reference "S9")
+					(reference "S7")
 					(unit 1)
 				)
 			)
@@ -2302,7 +2302,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "38fbb2bb-a380-458c-80b9-6b1864d4c386")
-		(property "Reference" "S11"
+		(property "Reference" "S9"
 			(at 111.76 96.52 0)
 			(effects
 				(font
@@ -2354,7 +2354,7 @@
 		(instances
 			(project "macropad"
 				(path "/f689f57c-e1bb-4870-8df3-313e66f77238"
-					(reference "S11")
+					(reference "S9")
 					(unit 1)
 				)
 			)
@@ -2370,7 +2370,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3cfbb14d-1e53-4933-b793-ad9023e05ec5")
-		(property "Reference" "S8"
+		(property "Reference" "S11"
 			(at 99.06 121.92 0)
 			(effects
 				(font
@@ -2422,7 +2422,7 @@
 		(instances
 			(project "macropad"
 				(path "/f689f57c-e1bb-4870-8df3-313e66f77238"
-					(reference "S8")
+					(reference "S11")
 					(unit 1)
 				)
 			)
@@ -2438,7 +2438,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "40d5d0e2-c007-4e03-92e3-6731b195da73")
-		(property "Reference" "S4"
+		(property "Reference" "S10"
 			(at 86.36 121.92 0)
 			(effects
 				(font
@@ -2490,7 +2490,7 @@
 		(instances
 			(project "macropad"
 				(path "/f689f57c-e1bb-4870-8df3-313e66f77238"
-					(reference "S4")
+					(reference "S10")
 					(unit 1)
 				)
 			)
@@ -2506,7 +2506,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4496899f-0f88-425b-9ca3-c1d2df4fd8a5")
-		(property "Reference" "D10"
+		(property "Reference" "D8"
 			(at 104.14 109.2199 90)
 			(effects
 				(font
@@ -2578,7 +2578,7 @@
 		(instances
 			(project "macropad"
 				(path "/f689f57c-e1bb-4870-8df3-313e66f77238"
-					(reference "D10")
+					(reference "D8")
 					(unit 1)
 				)
 			)
@@ -2594,7 +2594,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "517ee246-f882-4432-a5a8-8e6fe5eb4c02")
-		(property "Reference" "D11"
+		(property "Reference" "D9"
 			(at 116.84 109.2199 90)
 			(effects
 				(font
@@ -2666,7 +2666,7 @@
 		(instances
 			(project "macropad"
 				(path "/f689f57c-e1bb-4870-8df3-313e66f77238"
-					(reference "D11")
+					(reference "D9")
 					(unit 1)
 				)
 			)
@@ -2682,7 +2682,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5408072a-ece5-4e35-9b13-4037c529502f")
-		(property "Reference" "S6"
+		(property "Reference" "S5"
 			(at 99.06 71.12 0)
 			(effects
 				(font
@@ -2734,7 +2734,7 @@
 		(instances
 			(project "macropad"
 				(path "/f689f57c-e1bb-4870-8df3-313e66f77238"
-					(reference "S6")
+					(reference "S5")
 					(unit 1)
 				)
 			)
@@ -2750,7 +2750,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5d9372c7-1886-48ee-a164-46a2be646db3")
-		(property "Reference" "D9"
+		(property "Reference" "D7"
 			(at 91.44 109.2199 90)
 			(effects
 				(font
@@ -2822,7 +2822,7 @@
 		(instances
 			(project "macropad"
 				(path "/f689f57c-e1bb-4870-8df3-313e66f77238"
-					(reference "D9")
+					(reference "D7")
 					(unit 1)
 				)
 			)
@@ -2838,7 +2838,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9097d5b1-9c23-4bae-a390-58afc3bf9745")
-		(property "Reference" "S5"
+		(property "Reference" "S4"
 			(at 86.36 71.12 0)
 			(effects
 				(font
@@ -2890,7 +2890,7 @@
 		(instances
 			(project "macropad"
 				(path "/f689f57c-e1bb-4870-8df3-313e66f77238"
-					(reference "S5")
+					(reference "S4")
 					(unit 1)
 				)
 			)
@@ -3253,7 +3253,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "af8f0036-0deb-468f-8ce7-4aaf26225966")
-		(property "Reference" "S7"
+		(property "Reference" "S6"
 			(at 111.76 71.12 0)
 			(effects
 				(font
@@ -3305,7 +3305,7 @@
 		(instances
 			(project "macropad"
 				(path "/f689f57c-e1bb-4870-8df3-313e66f77238"
-					(reference "S7")
+					(reference "S6")
 					(unit 1)
 				)
 			)
@@ -3389,7 +3389,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d6b26ed7-e6e9-4f6f-adbe-6da39f5233d1")
-		(property "Reference" "D6"
+		(property "Reference" "D5"
 			(at 104.14 83.8199 90)
 			(effects
 				(font
@@ -3461,7 +3461,7 @@
 		(instances
 			(project "macropad"
 				(path "/f689f57c-e1bb-4870-8df3-313e66f77238"
-					(reference "D6")
+					(reference "D5")
 					(unit 1)
 				)
 			)
@@ -3477,7 +3477,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d7d72293-1d4d-4134-8e2f-74740e7f5535")
-		(property "Reference" "S10"
+		(property "Reference" "S8"
 			(at 99.06 96.52 0)
 			(effects
 				(font
@@ -3529,7 +3529,7 @@
 		(instances
 			(project "macropad"
 				(path "/f689f57c-e1bb-4870-8df3-313e66f77238"
-					(reference "S10")
+					(reference "S8")
 					(unit 1)
 				)
 			)
@@ -3545,7 +3545,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "df863fce-022e-4b0f-9154-343d22106ca4")
-		(property "Reference" "D7"
+		(property "Reference" "D6"
 			(at 116.84 83.8199 90)
 			(effects
 				(font
@@ -3617,7 +3617,7 @@
 		(instances
 			(project "macropad"
 				(path "/f689f57c-e1bb-4870-8df3-313e66f77238"
-					(reference "D7")
+					(reference "D6")
 					(unit 1)
 				)
 			)
@@ -3721,7 +3721,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fcc36468-5ea1-4b90-b61d-66b6ffeaab7e")
-		(property "Reference" "D8"
+		(property "Reference" "D11"
 			(at 104.14 134.6199 90)
 			(effects
 				(font
@@ -3793,7 +3793,7 @@
 		(instances
 			(project "macropad"
 				(path "/f689f57c-e1bb-4870-8df3-313e66f77238"
-					(reference "D8")
+					(reference "D11")
 					(unit 1)
 				)
 			)
@@ -3808,7 +3808,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "fdbe360f-dc7d-4ac8-a377-52457a7e41bd")
-		(property "Reference" "D4"
+		(property "Reference" "D10"
 			(at 91.44 134.6199 90)
 			(effects
 				(font
@@ -3880,7 +3880,7 @@
 		(instances
 			(project "macropad"
 				(path "/f689f57c-e1bb-4870-8df3-313e66f77238"
-					(reference "D4")
+					(reference "D10")
 					(unit 1)
 				)
 			)
